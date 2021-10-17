@@ -1,4 +1,3 @@
-package calculator;
 
 class StringCalculator {
 
